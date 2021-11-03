@@ -1,4 +1,4 @@
-## Hey 👋, I'm Halfdan Lund
+## Hey 👋, I'm Halfdan!
 [![Gmail Badge](https://img.shields.io/badge/-halfdan@lundhahn.dk-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:halfdan@lundhahn.dk)](mailto:halfdan@lundhahn.dk) [![Github Badge](https://img.shields.io/badge/-HalfdanDK-grey?style=flat&logo=github&logoColor=white&link=https://github.com/HalfdanDK/)](https://www.github.com/HalfdanDK/)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=HalfdanDK alt=HalfdanDK /> </p>
