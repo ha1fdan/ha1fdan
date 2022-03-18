@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Halfdan!
-[![Discord Presence](https://lanyard.cnrad.dev/api/507873841721376779)](https://discord.com/users/507873841721376779)
+![Discord Banner 1](https://discordapp.com/api/guilds/741705081715687424/widget.png?style=banner1)
 ## Some of my Github Stats
 [![Halfdan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=halfdanlund)](https://github.com/anuraghazra/github-readme-stats)
 <br />
