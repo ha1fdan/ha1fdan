@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [https://halfdan.eu.org/](https://halfdan.eu.org/)
+- 👨‍💻 All of my socials are available at [https://halfdan.eu.org/](https://halfdan.eu.org/)
 
 - 📫 How to reach me **me@halfdan.eu.org**
 
