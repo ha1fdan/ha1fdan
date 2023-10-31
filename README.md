@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Halfdan</h1>
 <h3 align="center">A backend developer from Denmark</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=halfdandk&label=Profile%20views&color=0e75b6&style=flat" alt="halfdandk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ha1fdan&label=Profile%20views&color=0e75b6&style=flat" alt="ha1fdan" /> </p>
 
-- 🔭 I’m currently working on [hidden-service-docker](https://github.com/HalfdanDK/hidden-service-docker)
+- 🔭 I’m currently working on [hidden-service-docker](https://github.com/ha1fdan/hidden-service-docker)
 
 - 🌱 I’m currently learning **Docker**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@halfdan_dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@halfdan_dk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ha1fdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@halfdan_dk" height="30" width="40" /></a>
 <a href="https://discord.gg/Wvsq239WZq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Wvsq239WZq" height="30" width="40" /></a>
 </p>
 
