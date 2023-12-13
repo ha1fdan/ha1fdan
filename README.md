@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 Check out my website at [https://halfdan.top/](https://halfdan.top/)
+- 👨‍💻 Check out my website at [https://ha1fdan.xyz/](https://ha1fdan.xyz/)
 
-- 📫 How to reach me **me@halfdan.top**
+- 📫 How to reach me **ha1fdan@ha1fdan.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
