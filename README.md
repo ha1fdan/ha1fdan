@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [HetznerCloudExtension](https://github.com/ha1fdan/HetznerCloudExtension)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Larvel**
 
 - 👨‍💻 Check out my website at [https://ha1fdan.xyz/](https://ha1fdan.xyz/)
 
