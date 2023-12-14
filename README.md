@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Halfdan</h1>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Ha1fdan</h1>
 <h3 align="center">A backend developer from Denmark</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ha1fdan&label=Profile%20views&color=0e75b6&style=flat" alt="ha1fdan" /> </p>
 
 - 🔭 I’m currently working on [HetznerCloudExtension](https://github.com/ha1fdan/HetznerCloudExtension)
 
