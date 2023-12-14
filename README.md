@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [HetznerCloudExtension](https://github.com/ha1fdan/HetznerCloudExtension)
 
-- 🌱 I’m currently learning **Larvel**
+<!-- 🌱 I’m currently learning **Larvel**-->
 
 - 👨‍💻 Check out my website at [https://ha1fdan.xyz/](https://ha1fdan.xyz/)
-
-- 📫 How to reach me **ha1fdan@ha1fdan.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
