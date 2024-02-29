@@ -10,7 +10,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://www.youtube.com/@ha1fdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@halfdan_dk" height="30" width="40" /></a>
-<a href="https://discord.gg/Wvsq239WZq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Wvsq239WZq" height="30" width="40" /></a>
+<a href="https://ha1fdan.xyz/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Wvsq239WZq" height="30" width="40" /></a>
 </p>
 
 ## 🔗 Referrals:
