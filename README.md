@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ha1fdan</h1>
 <h3 align="center">A backend developer from Denmark</h3>
 
-- 🔭 I’m currently working on [HetznerCloudExtension](https://github.com/ha1fdan/HetznerCloudExtension)
+- 🔭 I’m currently working on **Nothing!**
 
 <!-- 🌱 I’m currently learning **Larvel**-->
 
